@@ -1,6 +1,4 @@
 <?php
-echo "hello from serverside";
-exit;
 
 require('../vendor/autoload.php');
 require('../lib.php');
