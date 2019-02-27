@@ -1,6 +1,6 @@
 {
     "require": {
         "respect/validation": "^1.1",
-        "rakit/validation": "^1.1"
+        "rakit/validation": "^1.1.1"
     }
 }
