@@ -10,6 +10,9 @@ $routes = [
 	'post:/api/test' => function(){
 		return response('200', ['POST test ok', $_REQUEST]);
 	},
+	'get:/' => function(){
+		return response('200', ['Hello from php serverside', $_REQUEST]);
+	}
 ];
 
 
